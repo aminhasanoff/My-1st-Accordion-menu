@@ -1,0 +1,15 @@
+#accordion{
+    .my-btn{
+        box-shadow: none;
+    }
+    .my-p{
+        display: none;
+    }
+    .active{
+        display: block;
+    }
+}
+
+body{
+    background-size: cover;
+}

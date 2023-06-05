@@ -1,0 +1,13 @@
+#accordion .my-btn {
+  box-shadow: none;
+}
+#accordion .my-p {
+  display: none;
+}
+#accordion .active {
+  display: block;
+}
+
+body {
+  background-size: cover;
+}/*# sourceMappingURL=style.css.map */
